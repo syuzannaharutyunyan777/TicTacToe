@@ -42,5 +42,5 @@ python tic_tac_toe_xmpp_console.py
 - Works on any XMPP server.
 ```
 
----
+
 
