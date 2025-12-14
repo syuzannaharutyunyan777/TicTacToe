@@ -40,7 +40,7 @@ python tic_tac_toe_xmpp_console.py
 ## Notes
 - Both players must have an active XMPP account.
 - Works on any XMPP server.
-```
+
 
 
 
